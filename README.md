@@ -5,6 +5,9 @@
 This project demonstrates an end-to-end data analysis workflow using a global obesity dataset. The project covers importing raw CSV data into Python, cleaning and transforming the data into an analysis-ready format, storing it in a MySQL database, and building an interactive dashboard in Power BI.
 
 ---
+## Dashboard Preview
+
+![Dashboard](ObesityDashboard.png)
 
 # 🛠️ Tools & Technologies
 
@@ -168,3 +171,6 @@ Successfully built a complete data analysis pipeline:
 
 
 Aspiring Data Analyst | Python | SQL | MySQL | Power BI
+
+> **Note:** The database username, password, and connection details used in this project are **demo credentials** provided for demonstration purposes only. Replace them with your own MySQL credentials before running the project in your local environment.
+
